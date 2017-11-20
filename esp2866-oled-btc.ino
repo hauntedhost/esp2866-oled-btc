@@ -14,8 +14,8 @@ SSD1306 display(I2C, SDA, SCL);
 
 // wifi settings
 const char* host     = "api.coindesk.com";
-const char* ssid     = "YEMAOZI";
-const char* password = "eDNWNGR3jx7XB7Hd6fDMoOCr";
+const char* ssid     = "<<WIFI_NETWORK>>";
+const char* password = "<<WIFI_PASSWORD>>";
 
 ESP8266WebServer server(80);
 

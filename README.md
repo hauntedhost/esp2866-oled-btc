@@ -11,6 +11,12 @@ Based off of tutorial: [Build a Physical Bitcoin Ticker With the ESP8266](https:
 - [Half-size breadboard](https://www.adafruit.com/products/64)
 - [Breadboarding wire](https://www.adafruit.com/products/153)
 
+## Steps
+1. Install [Arduino](https://www.arduino.cc/en/Main/Software)
+2. Add [Arduino ESP2866 platform](https://github.com/esp8266/Arduino)
+3. Add [SSD1306 OLED](https://github.com/squix78/esp8266-oled-ssd1306)
+4. Connect and upload sketch
+
 ᕕ( ᐛ )ᕗ
 
 ---
