@@ -2,7 +2,7 @@
 
 ![Screenshot](/screenshot.jpg)
 
-Based off of tutorial: [Build a Physical Bitcoin Ticker With the ESP8266](https://openhardwarelabs.com/bitcoin-ticker-esp8266)
+Based off of tutorial: [Build a Physical Bitcoin Ticker With the ESP8266](https://openhomeautomation.net/bitcoin-ticker-esp8266)
 ### Parts
 
 - [AdaFruit Huzzah ESP8266 Breakout](https://www.adafruit.com/products/2471)
